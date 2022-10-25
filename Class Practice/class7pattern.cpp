@@ -49,15 +49,38 @@ int main()
     //     cout<<endl;
     // }
     // 5th
-    for(int i=0;i<=m;i++)
-    {
-        for(int j;j<=m;j++)
-        {
-            if(i==1|| j==m || j==1 || i==n)
-            {
-                
-            }
-        }
-    }
+    // for(int i=0;i<=n;i++)
+    // {
+    //     for(int j=0;j<=m;j++)
+    //     {
+    //         if((i+j)%2==0)
+    //             cout<<1;
+    //         else
+    //             cout<<2;
+    //     }
+    //     cout<<endl;
+    // }
+    // 6th
+    // for(int i=1;i<=n;i++)
+    // {
+    //     for(int sp=1;sp<=n-i;sp++)
+    //     {
+    //         cout<<" ";
+    //     }
+    //     for(int j=1;j<=i;j++)
+    //     {
+    //         cout<<j;
+    //     }
+    //     if(i>1)
+    //     {
+    //         for(int k=i-1;k>=1;k--)
+    //         {
+    //             cout<<k;
+    //         }
+    //     }
+    //     cout<<endl;
+    // }
+    // 7th 
+    
 
 }
